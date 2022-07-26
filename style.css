@@ -53,3 +53,11 @@ h3, h4, h5, h6 {
 .dropdown-item {
     padding-left:0px;
 }
+
+body {
+    background-color: #E9ECEF;
+}
+
+.card-img-top {
+    margin-top: 15px;
+}
